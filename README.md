@@ -19,3 +19,8 @@ Browse the folders above to explore the walkthroughs and methodologies:
 
 ### ⚠️ Disclaimer
 All write-ups and techniques documented in this repository are strictly for **educational purposes** and authorized security testing only.
+
+
+## 🏆 Completed Learning Paths
+**TryHackMe: Offensive Pentesting** (32 Hours)
+![Offensive Pentesting Certificate](certificate.png)
