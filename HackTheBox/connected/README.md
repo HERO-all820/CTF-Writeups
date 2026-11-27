@@ -124,6 +124,17 @@ exploit.py
 ```
 
 The exploit was originally credited to **K3ysTr0K3R (Jared Brits)**.
+### Exploit Script
+
+The Python exploit used to exploit CVE-2025-57819:
+
+[View exploit.py](./exploit.py)
+
+**Requirements:**
+- Python 3
+- requests
+- urllib3
+- rich
 
 I executed it against the target:
 
